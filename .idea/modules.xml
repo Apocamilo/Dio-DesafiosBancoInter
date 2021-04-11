@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Desafios Aritméticos em Java/Desafios Aritméticos em Java.iml" filepath="$PROJECT_DIR$/Desafios Aritméticos em Java/Desafios Aritméticos em Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extras/Extras.iml" filepath="$PROJECT_DIR$/Extras/Extras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos Aritméticos em Java/Fundamentos Aritméticos em Java.iml" filepath="$PROJECT_DIR$/Fundamentos Aritméticos em Java/Fundamentos Aritméticos em Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introdução à Busca e Substituição em Java/Introdução à Busca e Substituição em Java.iml" filepath="$PROJECT_DIR$/Introdução à Busca e Substituição em Java/Introdução à Busca e Substituição em Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ordenação e Filtros em Java/Ordenação e Filtros em Java.iml" filepath="$PROJECT_DIR$/Ordenação e Filtros em Java/Ordenação e Filtros em Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praticando programação em Java/Praticando programação em Java.iml" filepath="$PROJECT_DIR$/Praticando programação em Java/Praticando programação em Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Resolvendo Algoritmos com Java/Resolvendo Algoritmos com Java.iml" filepath="$PROJECT_DIR$/Resolvendo Algoritmos com Java/Resolvendo Algoritmos com Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solucionando problemas básicos em Java/Solucionando problemas básicos em Java.iml" filepath="$PROJECT_DIR$/Solucionando problemas básicos em Java/Solucionando problemas básicos em Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solução de Problemas com Java/Solução de Problemas com Java.iml" filepath="$PROJECT_DIR$/Solução de Problemas com Java/Solução de Problemas com Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/desafios-dio-master.iml" filepath="$PROJECT_DIR$/.idea/desafios-dio-master.iml" />
+    </modules>
+  </component>
+</project>
